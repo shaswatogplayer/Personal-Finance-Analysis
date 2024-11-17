@@ -16,8 +16,6 @@ This project demonstrates a financial analysis process using **Microsoft Excel**
 - Interactive **Power BI** dashboards showcasing KPIs, revenue analysis, and expense tracking.
 - Real-time filtering and drill-down functionality in the Power BI dashboard.
 
-## Data Source
-The data used in this project is sourced from [public financial datasets](https://example.com) and internal company data.
 
 ## Installation and Usage
 
@@ -28,8 +26,8 @@ The data used in this project is sourced from [public financial datasets](https:
 ### Steps to Use:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/finance-analysis-project.git
+    git clone https://github.com/your-username/Personal finance analysis.git
     ```
-2. Open the **Excel** file (`financial_analysis.xlsx`) in Excel to view the data and calculations.
-3. Open the **Power BI** file (`finance_dashboard.pbix`) in Power BI to interact with the dashboard.
+2. Open the **Excel** file (`finnance Database.xlsx`) in Excel to view the data and calculations.
+3. Open the **Power BI** file (`Personal finance dashboard.pbix`) in Power BI to interact with the dashboard.
 
